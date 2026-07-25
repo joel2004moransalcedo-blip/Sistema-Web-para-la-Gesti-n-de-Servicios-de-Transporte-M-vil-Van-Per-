@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/registro.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/index.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/hotel_admin.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/PagoServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/login.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/model/Paquete.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/HotelServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/model/Reserva.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/HotelRestServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/model/Usuario.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/dao/HotelDAO.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/PaqueteServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/reservas_admin.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/cambiarcontrasena.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/dao/PaqueteDAO.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/ReservaServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/facade/SistemaViajesFacade.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/paquetes.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/usuarios_admin.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/hoteles.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/dao/ReservaDAO.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/UsuarioServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/utils/Conexion.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/rutas.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/admin-promociones.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/controller/LanguageServlet.java</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/WEB-INF/classes/messages_en.properties</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/web/views/perfil.jsp</file>
+            <file>file:/C:/Users/jomar/Downloads/UTP/Desarrollo%20web%20integrado%20(1SI54)/MovilVanPeruWeb/src/java/com/movilvanperu/model/Hotel.java</file>
+        </group>
+    </open-files>
+</project-private>
