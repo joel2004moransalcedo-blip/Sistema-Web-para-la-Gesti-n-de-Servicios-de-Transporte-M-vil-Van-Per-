@@ -1,0 +1,15 @@
+1. Para ejecutar el programa se necesita el XAMPP versión V3.3.0.
+
+2. El NetBeans versión IDE 19 con JDK 21. 
+
+3. Cuando se importa la base de datos en XAMPP al importar la base de datos se debe llamar "movilvan_db".
+
+4. Al importar el proyecto en NetBeans asegurese que están bien importados las librerías en el proyecto, sino importa las librerías están en la propia carpeta del proyecto.
+
+5. Asegurese de tener instalado el server TomCat 
+
+6. Al ingresar la pagina web MolvilVanPeru si quiere entrar a administración entre con el siguiente usuario admin:
+V1582000
+admin123
+
+7. Puede registrar su nuevo usuario en la pagina y poder logearse a la pagina web como usuario cliente
